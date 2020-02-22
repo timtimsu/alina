@@ -18,6 +18,7 @@ public class Main {
             twoString.add(fs);
             twoString.add(ss);
             pairList.add(twoString);
+
         }
         pairList.forEach(pair-> System.out.println(pair));
 
